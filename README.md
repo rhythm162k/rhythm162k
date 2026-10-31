@@ -56,7 +56,7 @@ A personal finance tracker built with vanilla JavaScript and the MVC architectur
 
 ### `CURRENTLY EXPLORING`
 
-Docker · System Design · Backend Engineering
+Docker · CI/CD · System Design · Backend Engineering
 
 <br/>
 
