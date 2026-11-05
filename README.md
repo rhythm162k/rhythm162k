@@ -28,13 +28,13 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3>🏢 Kin CRM</h3>
+<h3>🏢 Dumb CRM</h3>
 
 A multi-tenant CRM with workspace isolation, role-based access control, and 224 automated tests.
 
 **React · TypeScript · Node.js · Express · PostgreSQL**
 
-<a href="https://github.com/rhythm162k/Kin_CRM">↗ Explore project</a>
+<a href="https://github.com/rhythm162k/Dumb_CRM">↗ Explore project</a>
 
 </td>
 <td width="50%" valign="top">
