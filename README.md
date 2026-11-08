@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Hey <img src="assets/developer.gif" height="30" width="30" alt="wave" /> I'm Md. Sami-El Bashar Rhythm</h1>
+<h1 align="center">Hey! <img src="assets/developer.gif" height="30" width="30" alt="wave" /> I'm Md. Sami-El Bashar Rhythm</h1>
 
 <img src="assets/banner.gif" alt="Banner" width="100%" />
 
@@ -17,8 +17,6 @@
 - 💡 Junior full-stack developer and Computer Science graduate with hands-on experience building and deploying TypeScript applications using React, Node.js/Express and PostgreSQL. Developed a multi-tenant CRM with database-level tenant isolation and role-based access control, alongside a movie-tracking app; the projects include 224 and 120 automated tests, respectively.
 
 <div align="center">
-
-**Building web applications. Learning by shipping. Improving every day.**
 
 <br/>
 
@@ -70,6 +68,6 @@ Docker · CI/CD · System Design · Backend Engineering
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1D4ED8&height=90&section=footer" width="100%" />
+<img src="assets/dino.gif" width="100%" alt="Cropped image">
 
 </div>
